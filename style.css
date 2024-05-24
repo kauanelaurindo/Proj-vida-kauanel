@@ -60,7 +60,7 @@ border-radius: 40px 40px 0 0;
 display: block;
 }
 
-.ativo{
+.botao.ativo{
 background-color: var(--botao-ativo);
 border-bottom: var(--verde);
 }
